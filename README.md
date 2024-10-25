@@ -1,5 +1,5 @@
-                                                                Student Management REST API
-                                                                ------------------------------
+                                  Student Management REST API
+                                ------------------------------
 Overview:
 --------
 This project is a RESTful API built using Django REST Framework, designed to manage student information efficiently.
